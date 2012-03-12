@@ -1,0 +1,1 @@
+..\fonts\RUSSIAN*.BIN -> ru_ftable.bin
