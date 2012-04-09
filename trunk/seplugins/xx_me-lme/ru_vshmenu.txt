@@ -5,7 +5,7 @@
 Назад
 UMD
 Memory Stick
-Скрытое устр.
+Скрытая память
 Стандарт
 OE isofs
 M33 driver
