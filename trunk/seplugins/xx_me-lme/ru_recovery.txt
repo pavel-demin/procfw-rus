@@ -17,7 +17,7 @@
 Стандарт -требуется UMD-
 OE isofs -UMD не нужен-
 M33 driver -UMD не нужен-
-Sony NP9660 -UMD не нужен-
+Sony NP9660 -UMD не нуж.-
 ME driver -UMD не нужен-
 Включить/выключить USB
 Настройки
